@@ -2,7 +2,7 @@
 
 A fully functional and modern-looking calculator built with PYTHON and CustomTkinter, styled with a soft green matcha-like aesthetic. Supports basic arithmetic operations, clear, delete, and error handling.
 
- <!-- optional: include a screenshot image of your calculator UI -->
+ ![Calculator Screenshot](preview.png)<!-- Preview Calculator UI -->
 
 ---
 
